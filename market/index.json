@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Q3yp DSH plugins",
+    "zh": "Q3yp DSH plugins"
+  },
+  "plugins": [
+    {
+      "name": "dsh-plugin-deepseek-share-import",
+      "title": "DeepSeek share import",
+      "description": "Import public DeepSeek share links as local DSH sessions.",
+      "author": "Peng Yue",
+      "homepage": "https://github.com/Q3yp/dsh-plugin-deepseek-share-import#readme",
+      "repository": {
+        "url": "https://github.com/Q3yp/dsh-plugin-deepseek-share-import"
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1794884040,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Q3yp/dsh-plugin-deepseek-share-import",
+            "commit": "84393632f5d951d1b5724dd3f853164ac100c47d"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1"
+          }
+        }
+      ]
+    }
+  ]
+}
