@@ -1,0 +1,3 @@
+- insert:
+    - id: deepseek-share-import
+      name: dsh-plugin-deepseek-share-import
